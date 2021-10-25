@@ -16,3 +16,6 @@ The code contains:
  - Feature extraction and PCA using pretrained models(VGG19,VGG16,Resnet)
  - Error analysis to find patterns in the misclassified data
 
+Part 1 contains all expereiments which can be run with the dataset
+
+Part 2 contains sample runs which were used for analysis
